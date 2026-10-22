@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 pcall(function()
 local espcolor = Color3.fromRGB(140, 69, 102)
 local wallhack_esp_transparency = .4
